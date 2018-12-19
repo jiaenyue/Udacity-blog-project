@@ -15,8 +15,10 @@ Q1. what language is in fashion and what will be the new sexy?
 *Julia* is gaining popularity, and although it did not make the 2018 popularity ranks, according to its performance on the wanted list, it could in 2019.
 
 Q2. what framework is in fashion and what will be the new sexy?
+
 The framework most loved by data scientists is *TensorFlow* which has received popularity over years.
 *PyTorch* is getting its popularity rapidly.
 
 Q3. which framework makes data scientists more money (who makes more money)?
+
 Data scientists with more coding experience, using PyTorch are making more money.
