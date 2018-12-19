@@ -9,6 +9,16 @@ pandas - data wrangling
 
 plotly - data visualization
 
+## Files 
+├── data
+│   └── developer_survey_2018
+│       ├── Developer_Survey_Instrument_2018.pdf
+│       ├── README_2018.txt				
+│       ├── survey_results_public.csv.gz		-- survey result data file
+│       └── survey_results_schema.csv			-- survey schema file	
+├── README.md						-- this readme file
+└── stack-overflow-survey.ipynb				-- jupter nootbook file for data wrangling and data visualization
+
 ## Summary
 Q1. what language is in fashion and what will be the new sexy?
 
@@ -24,3 +34,10 @@ The framework most loved by data scientists is *TensorFlow* which has received p
 Q3. which framework makes data scientists more money (who makes more money)?
 
 Data scientists with more coding experience, using PyTorch are making more money.
+
+# Acknowledgment
+I would like to express my special thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey.
+Secondly I would also like to thank StackOverflow to share the survey data set.
+
+
+
