@@ -4,7 +4,9 @@ Stack Overflow Data - 2018 Survey
 Based on the StackOverflow 2018 Developer Survey, among all 98,855 participants, there are 7,088 data scientists. What I am interested with is that what technologies they are using now, and what is the trend of data science.
 
 ## Labrary use:
+
 pandas - data wrangling
+
 plotly - data visualization
 
 ## Summary
